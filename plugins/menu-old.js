@@ -55,8 +55,8 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -128,15 +128,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: "𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈",
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: "𝐔𝐌𝐄𝐑-𝐌𝐃",
                         serverMessageId: 143
                     }
                 }
@@ -194,15 +194,15 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 144
                     }
                 }
@@ -222,7 +222,7 @@ cmd({
     pattern: "dlmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "⤵️",
+    react: "🎓",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -277,15 +277,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -305,7 +305,7 @@ cmd({
     pattern: "groupmenu",
     desc: "menu the bot",
     category: "menu",
-    react: "⤵️",
+    react: "🎓",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -355,15 +355,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -422,15 +422,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -493,15 +493,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -545,15 +545,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -604,15 +604,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -665,15 +665,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -734,15 +734,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
@@ -793,15 +793,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/adhn5v.jpg` },
+                image: { url: `https://files.catbox.moe/3mry2v.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '992935807278@s.whatsapp.net',
+                        newsletterName: '𝐔𝐌𝐄𝐑-𝐌𝐃',
                         serverMessageId: 143
                     }
                 }
