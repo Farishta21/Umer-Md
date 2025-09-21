@@ -6,7 +6,7 @@ cmd({
     alias: ["speed","pong"],use: '.ping',
     desc: "Check bot's response time.",
     category: "main",
-    react: "⚡",
+    react: "🏓",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, sender, reply }) => {
@@ -41,8 +41,8 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363348739987203@newsletter',
-                    newsletterName: "𝐀𝐫𝐬𝐥𝐚𝐧_𝐌𝐃",
+                    newsletterJid: '992935807278@s.whatsapp.net',
+                    newsletterName: "𝐔𝐌𝐄𝐑-𝐌𝐃",
                     serverMessageId: 143
                 }
             }
@@ -69,7 +69,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const message = await conn.sendMessage(from, { text: '*PINGING...*' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `*🔥 𝐀𝐫𝐬𝐥𝐚𝐧_𝐌𝐃 SPEED : ${ping}ms*` }, { quoted: message })
+        await conn.sendMessage(from, { text: `*🔥 𝐔𝐌𝐄𝐑-𝐌𝐃 SPEED : ${ping}ms*` }, { quoted: message })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
