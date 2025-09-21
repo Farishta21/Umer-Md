@@ -10,7 +10,7 @@ cmd({
     alias: ["systeminfo", "serverinfo", "status"],
     desc: "Display detailed system information of the bot server",
     category: "info",
-    react: "📊",
+    react: "💻",
     filename: __filename
 },
 async (conn, mek, m, { from, reply }) => {
@@ -45,10 +45,10 @@ async (conn, mek, m, { from, reply }) => {
 
         // Bot info
         const botInfo = {
-            name: config.BOT_NAME || "YourBot",
+            name: config.BOT_NAME || "Umer-Md",
             version: config.VERSION || "5.0.0",
-            creator: "𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈 👑",
-            contact: "+923452401207"
+            creator: "Mr Umer 👑",
+            contact: "+992935807278"
         };
 
         // Generate a beautiful system info message
